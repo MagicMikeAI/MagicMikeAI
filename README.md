@@ -10,13 +10,35 @@
 </a>  
 </div>
 
-### Glad to see you here!
-
-Accomplished Senior Software Engineer and Technical Lead with a strong track record of designing and delivering scalable, event-driven platforms that power mission-critical business operations. I specialize in React (TypeScript) and Java Spring Boot ecosystems, building robust front-end and back-end architectures underpinned by PostgreSQL and supported by modern DevOps pipelines.
-Over the years, I’ve architected and built from the ground up enterprise-grade systems spanning real-time telephony, analytics, and automation, serving tens of thousands of users and processing millions of live interactions annually. My experience extends into Python automation, Asterisk telephony, and distributed microservice environments, where reliability, latency, and observability are paramount.
-I take pride in bridging the gap between strategic design and practical delivery, leading complex technical initiatives from concept to production, mentoring developers, and ensuring systems are not only functional but maintainable, observable, and future ready. My approach blends architectural clarity, clean engineering, and a relentless focus on user experience and operational excellence, driving innovation while maintaining production stability at scale.
 
 
+###  Glad to see you here!
+
+I'm an **Accomplished Senior Software Engineer and Technical Lead** with a proven record of designing and delivering **scalable, event-driven platforms** powering mission-critical business operations.  
+
+I specialize in **React (TypeScript)** and **Java Spring Boot**, building robust, maintainable front-end and back-end architectures backed by **PostgreSQL** and modern **DevOps pipelines**.  
+
+Over the years, I’ve **architected and built from the ground up** enterprise-grade systems spanning real-time telephony, analytics, and automation — serving **tens of thousands of users** and processing **millions of live interactions annually**.  
+
+ <y experience extends into **Python automation**, **Asterisk telephony**, and **distributed microservice environments**, where reliability, latency, and observability are paramount.  
+
+I focus on **bridging strategic design and practical delivery** — leading technical initiatives from concept to production, mentoring engineers, and ensuring systems are **maintainable, observable, and future-ready**.  
+
+I believe in **architectural clarity**, **clean engineering**, and a relentless drive for **operational excellence** — delivering innovative, resilient systems that perform at scale.
+
+---
+
+###  Tech Stack
+
+**Frontend:** React, TypeScript, JavaScript, Redux, WebSocket, PWA  
+**Backend:** Java Spring Boot (REST, JMS, Scheduling, JPA, Microservices)  
+**DevOps:** Docker, Kubernetes, ArgoCD, CI/CD Pipelines  
+**Messaging:** ActiveMQ, Artemis  
+**Auth:** Keycloak, OAuth2, OpenID Connect  
+**Databases:** PostgreSQL, Advanced SQL, Data Modelling  
+**Other:** Python, Asterisk (PBX/AMI/AGI)
+
+---
 <br/>
 
 ## Rapidfire

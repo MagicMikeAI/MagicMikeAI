@@ -12,9 +12,10 @@
 
 ### Glad to see you here!
 
-My unique combination of technical skills and artistic abilities in front-end design, coupled with my analytical thinking and logical approach in back-end development, have enabled me to successfully develop and deliver several applications that have been well-received and widely used within the company. This has been achieved through my ability to understand and apply the requirements of the user, the company and the project, with the goal of delivering a seamless and efficient application
+Accomplished Senior Software Engineer and Technical Lead with a strong track record of designing and delivering scalable, event-driven platforms that power mission-critical business operations. I specialize in React (TypeScript) and Java Spring Boot ecosystems, building robust front-end and back-end architectures underpinned by PostgreSQL and supported by modern DevOps pipelines.
+Over the years, I’ve architected and built from the ground up enterprise-grade systems spanning real-time telephony, analytics, and automation, serving tens of thousands of users and processing millions of live interactions annually. My experience extends into Python automation, Asterisk telephony, and distributed microservice environments, where reliability, latency, and observability are paramount.
+I take pride in bridging the gap between strategic design and practical delivery, leading complex technical initiatives from concept to production, mentoring developers, and ensuring systems are not only functional but maintainable, observable, and future ready. My approach blends architectural clarity, clean engineering, and a relentless focus on user experience and operational excellence, driving innovation while maintaining production stability at scale.
 
-I am excited to continue to leverage my expertise in software development to drive innovation and improve the user experience for clients. I am confident that my passion for software development, coupled with my technical skills and experience, will enable me to make a meaningful contribution to any organization. I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
 <br/>
 

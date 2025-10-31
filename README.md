@@ -84,5 +84,3 @@ I believe in **architectural clarity**, **clean engineering**, and a relentless 
 <br />
 
 ---
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

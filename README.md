@@ -20,7 +20,7 @@ I specialize in **React (TypeScript)** and **Java Spring Boot**, building robust
 
 Over the years, I’ve **architected and built from the ground up** enterprise-grade systems spanning real-time telephony, analytics, and automation — serving **tens of thousands of users** and processing **millions of live interactions annually**.  
 
- <y experience extends into **Python automation**, **Asterisk telephony**, and **distributed microservice environments**, where reliability, latency, and observability are paramount.  
+My experience extends into **Python automation**, **Asterisk telephony**, and **distributed microservice environments**, where reliability, latency, and observability are paramount.  
 
 I focus on **bridging strategic design and practical delivery** — leading technical initiatives from concept to production, mentoring engineers, and ensuring systems are **maintainable, observable, and future-ready**.  
 

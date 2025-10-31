@@ -39,9 +39,6 @@ I believe in **architectural clarity**, **clean engineering**, and a relentless 
 **Other:** Python, Asterisk (PBX/AMI/AGI)
 
 ---
-<br/>
-
-## Rapidfire
 
 <br/>
 
@@ -79,13 +76,6 @@ I believe in **architectural clarity**, **clean engineering**, and a relentless 
 
 <br/>
 
-## Github Stats
-
-<table><tr><td valign="top" width="50%">
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="Center" style="width: 100%" />
 
 </td></tr></table>
 
